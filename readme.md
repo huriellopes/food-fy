@@ -18,8 +18,8 @@ npm start
 
 ## Creditos
 
--- [RocketSeat](https://rocketseat.com.br/)
--- Instrutor: Mayk Brito
+- [RocketSeat](https://rocketseat.com.br/)
+- Instrutor: Mayk Brito
 
 ## License
 The license of the project is the [MIT](https://github.com/huriellopes/food-fy/blob/master/LICENSE) license.
