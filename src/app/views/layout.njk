@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="author" content="Huriel Lopes" />
+  <meta name="description" content="Site de receitas culinárias!" />
+  <title>FoodFy</title>
+  {% include 'parts/styles.njk' %}
+</head>
+<body>
+  {% include 'parts/header.njk' %}
+
+  {% block content %}{% endblock %}
+  
+  {% include 'parts/modal.njk' %}
+
+  {% include 'parts/footer.njk' %}
+</body>
+</html>
