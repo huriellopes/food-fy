@@ -9,8 +9,18 @@
     "browsersync": "browser-sync start --proxy http://localhost:5000 --files '[public, src/app/views]'"
   },
   "keywords": [],
-  "author": "Huriel Lopes",
+  "author": {
+    "name": "Huriel Lopes",
+    "email": "huriellopes1996@gmail.com"
+  },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huriellopes/food-fy"
+  },
+  "bugs": {
+    "url": "http://github.com/huriellopes/food-fy/issues"
+  },
   "devDependencies": {
     "browser-sync": "^2.26.7",
     "nodemon": "^2.0.3",
